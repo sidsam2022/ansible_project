@@ -1,0 +1,17 @@
+<Student>
+    <firstName>Manikumar</firstName>
+    <lastName>D</lastName>
+    <dob>20-05-20</dob>
+    <addresses>
+        <address type="temporary">
+            <doorNo>flat210</doorNo>
+            <streetName>Gandi Nagar</streetName>
+            <city>Hyderabad</city>
+        </address>
+        <address type="permanent">
+            <doorNo>flat210</doorNo>
+            <streetName>Gandi Nagar</streetName>
+            <city>Hyderabad</city>
+        </address>
+    </addresses>
+</Student>
