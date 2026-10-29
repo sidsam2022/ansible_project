@@ -1,3 +1,0 @@
-[submodule "ansible_project"]
-    path = ansible_project
-    url = <repository-url>
